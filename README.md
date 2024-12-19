@@ -18,6 +18,6 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas, sou um entusiasta em
 ---
 
 ## 📫 Entre em Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-sena)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/pedro-henrique-sena](https://www.linkedin.com/in/pedro-henrique-sena-a282b01ab/))  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrosena628@gmail.com)
 
