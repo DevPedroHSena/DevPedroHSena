@@ -21,12 +21,3 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas, sou um entusiasta em
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-sena)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrohenrique@example.com)
 
----
-
-## 📊 Minhas Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroHenriqueSena&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueSena&layout=compact&theme=dark)
-
----
-
-Espero que goste! Se precisar de ajuda para personalizar ou adicionar algo, é só avisar. 😊
